@@ -1,0 +1,12 @@
+{
+    "name": "shebo/lab3",
+    "require": {},
+    "autoload": {
+        "files": [
+            "config.php"
+        ],
+        "classmap": [
+            "classes"
+        ]
+    }
+}
